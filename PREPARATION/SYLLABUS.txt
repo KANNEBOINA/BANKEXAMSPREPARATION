@@ -1,0 +1,66 @@
+IBPS PO Syllabus 2018:
+
+   English Language      
+			Reading Comprehension 
+			Cloze Test
+			Fillers
+			Sentence Errors
+			Vocabulary based questions
+			Sentence Improvement
+			Jumbled Paragraph
+			Paragraph Based Questions (Paragraph Fillers, Paragraph Conclusion, Paragraph /Sentences Restatement)
+
+   Reasoning Ability
+			Puzzles
+			Seating Arrangements
+			Direction Sense
+			Blood Relation
+			Syllogism
+			Order and Ranking
+			Coding-Decoding
+			Machine Input-Output
+			Inequalities
+			Alpha-Numeric-Symbol Series
+			Data Sufficiency
+			Logical Reasoning (Passage Inference, Statement and Assumption, Conclusion, Argument)
+
+  Quantitative Aptitude 
+			Data Interpretation (Bar Graph, Line Chart, Tabular, Caselet, Radar/Web, Pie Chart)
+			Inequalities (Quadratic Equations)
+			Number Series
+			Approximation and Simplification
+			Data Sufficiency
+			Miscellaneous Arithmetic Problems (HCF and LCM, Profit and Loss, SI & CI, Problem on Ages, 
+							   Work and Time, Speed Distance and Time, Probability, Mensuration, 
+							   Permutation and Combination, Average, Ratio and Proportion, Partnership, 
+							   Problems on Boats and Stream, Problems on Trains, Mixture and Allegation,
+							   Pipes and Cisterns)
+
+
+ General Awareness
+			Banking and Insurance Awareness 
+			Financial Awareness 
+			Govt. Schemes and Policies 
+			Current Affairs 
+			Static Awareness
+
+
+
+Computer Aptitude
+			History and Generation of Computers 
+			Introduction to Computer Organisation 
+			Computer Memory 
+			Computer Hardware and I/O Devices 
+			Computer Software 
+			Computer Languages 
+			Operating System 
+			Computer Network 
+			Internet 
+			MS Office Suit and Short cut keys 
+			Basics of DBMS 
+			Number System and Conversions 
+			Computer and Network Security 
+
+
+
+	
